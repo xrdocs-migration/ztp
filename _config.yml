@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IOS XR Device Lifecycle @xrdocs"
-title_short              : "Device Lifecycle"
+title                    : "IOS XR ZTP @xrdocs"
+title_short              : "ZTP"
 title_separator          : "|"
 name                     : &name "Cisco Systems Inc"
 description              : &description "Documentation, Blogs and Tutorials on RPM management, ZTP & iPXE"
