@@ -283,8 +283,8 @@ tags:
 
 
 prose:
-  siteurl: 'https://xrdocs.io/ztp/'
-  relativeLinks: 'https://xrdocs.io/ztp/links.jsonp'
+  siteurl: '{{site.url}}/ztp/'
+  relativeLinks: '{{site.url}}/ztp/links.jsonp'
   media: 'images'
   ignore:
     - index.md
